@@ -35,4 +35,4 @@ Worlds:
 ![image](https://github.com/user-attachments/assets/72ba9b13-621e-409c-89f9-643e650f0d62)
 ![image](https://github.com/user-attachments/assets/d00e951f-739a-4b4e-ab12-5bb1c5127f0d)
 
-All the designs and world-building were done by my groupmates. To whom most of the credit for the completion of this project goes. This website, and the entirety of Ascent would not be what it is without them. Meja, Yesha, Gessa, and Maxine.
+All the designs and world-building were done by my groupmates. To whom most of the credit for the completion of this project goes to. This website, and the entirety of Ascent, would not be what it is without them. Meja, Yesha, Gessa, and Maxine.
